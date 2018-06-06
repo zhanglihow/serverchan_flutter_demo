@@ -1,6 +1,7 @@
 # serverchan_flutter_demo
 
-效果：
+效果:  
+
 ![这里写图片描述](https://github.com/zhanglihow/serverchan_flutter_demo/blob/master/pic/demo.gif)
 
 server酱：[http://sc.ftqq.com/3.version](http://sc.ftqq.com/3.version)  
@@ -22,8 +23,10 @@ desp：消息内容，最长64Kb，可空，支持MarkDown。
     
     
 参考：
-[Flutter交互控件](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery)
-[Flutter 网络操作](http://flutter.link/2018/04/16/%E7%BD%91%E7%BB%9C%E6%93%8D%E4%BD%9C/)
+[Flutter交互控件](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery)  
+
+[Flutter 网络操作](http://flutter.link/2018/04/16/%E7%BD%91%E7%BB%9C%E6%93%8D%E4%BD%9C/)  
+
 [Flutter 本地存储](http://flutter.link/2018/04/13/Flutter%E4%B8%AD%E7%9A%84%E6%9C%AC%E5%9C%B0%E5%AD%98%E5%82%A8/)
 
 ## Getting Started

@@ -105,7 +105,7 @@ class MainState extends State<MainPage> {
                 decoration: new InputDecoration(
                   border: const OutlineInputBorder(),
                   labelText: "消息内容",
-                  helperText: "最长64K，选填，支持MaerkDown",
+                  helperText: "最长64K，选填，支持MarkDown",
                 ),
                 maxLines: 4,
               ),
